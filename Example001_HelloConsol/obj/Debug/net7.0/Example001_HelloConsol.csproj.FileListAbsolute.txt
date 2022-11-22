@@ -1,0 +1,15 @@
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\bin\Debug\net7.0\Example001_HelloConsol.exe
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\bin\Debug\net7.0\Example001_HelloConsol.deps.json
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\bin\Debug\net7.0\Example001_HelloConsol.runtimeconfig.json
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\bin\Debug\net7.0\Example001_HelloConsol.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\bin\Debug\net7.0\Example001_HelloConsol.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.csproj.AssemblyReference.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.AssemblyInfoInputs.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.AssemblyInfo.cs
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\refint\Example001_HelloConsol.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\Example001_HelloConsol.genruntimeconfig.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Example001_HelloConsol\obj\Debug\net7.0\ref\Example001_HelloConsol.dll
