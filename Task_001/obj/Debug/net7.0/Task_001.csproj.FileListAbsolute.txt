@@ -3,3 +3,13 @@ C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_
 C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.AssemblyInfoInputs.cache
 C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.AssemblyInfo.cs
 C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.csproj.CoreCompileInputs.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\bin\Debug\net7.0\Task_001.exe
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\bin\Debug\net7.0\Task_001.deps.json
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\bin\Debug\net7.0\Task_001.runtimeconfig.json
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\bin\Debug\net7.0\Task_001.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\bin\Debug\net7.0\Task_001.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\refint\Task_001.dll
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\Task_001.genruntimeconfig.cache
+C:\Users\TabHuawei\Desktop\GeekBrains01\Examples\Task_001\obj\Debug\net7.0\ref\Task_001.dll
