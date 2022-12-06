@@ -92,3 +92,4 @@ Console.WriteLine("Максимальное число " + max);
 //   Console.WriteLine(a);
 //   a += 2;
 // }
+// Перенос в задачи
