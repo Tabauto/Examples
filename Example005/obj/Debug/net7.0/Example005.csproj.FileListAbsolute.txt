@@ -1,0 +1,15 @@
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\bin\Debug\net7.0\Example005.exe
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\bin\Debug\net7.0\Example005.deps.json
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\bin\Debug\net7.0\Example005.runtimeconfig.json
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\bin\Debug\net7.0\Example005.dll
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\bin\Debug\net7.0\Example005.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.csproj.AssemblyReference.cache
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.AssemblyInfoInputs.cache
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.AssemblyInfo.cs
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.csproj.CoreCompileInputs.cache
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.dll
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\refint\Example005.dll
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.pdb
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\Example005.genruntimeconfig.cache
+C:\Users\TabHuawei\Desktop\GeekBrains02\Examples-1\Example005\obj\Debug\net7.0\ref\Example005.dll
