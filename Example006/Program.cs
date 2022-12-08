@@ -61,7 +61,7 @@
 // Console.Write(columnsCount); // 3
 
 // Заполнение двумерного массива:
-int[,] arr = new int[100, 60];
+int[,] arr = new int[10, 6];
 for (int i = 0; i < arr.GetLength(0); i++)
 {
     for (int j = 0; j < arr.GetLength(1); j++)
