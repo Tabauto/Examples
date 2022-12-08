@@ -87,6 +87,7 @@
 // 5 9 2 3
 // 8 4 2 4
 // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+
 Console.WriteLine("Задайти колличество строк");
 int m = int.Parse(Console.ReadLine());
 Console.WriteLine("Задайти колличество столбцов");
@@ -119,3 +120,5 @@ for(int i = 0; i < n; i++)
     mid = mid / n;
     Console.Write($"  {Math.Round(mid, 2)}  ");
 }
+
+
