@@ -61,12 +61,12 @@
 // Console.Write(columnsCount); // 3
 
 // Заполнение двумерного массива:
-int[,] arr = new int[2, 5];
+int[,] arr = new int[100, 60];
 for (int i = 0; i < arr.GetLength(0); i++)
 {
     for (int j = 0; j < arr.GetLength(1); j++)
     {
-        arr[i, j] = new Random().Next(0, 10);
+        arr[i, j] = new Random().Next(0, 2);
     }
 }
 
@@ -80,8 +80,8 @@ for (int i = 0; i < arr.GetLength(0); i++)
     Console.WriteLine();
 }
 
-Console.WriteLine();
-Console.WriteLine(arr[0, 0]);
+// Console.WriteLine();
+// Console.WriteLine(arr[4, 4]);
 
 // Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76

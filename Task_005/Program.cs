@@ -128,6 +128,6 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 if (arrElement >= 0)
-    Console.WriteLine($"Колличество Элементов {arrElement} в отрезке от 10 до 99");
+    Console.WriteLine($"Колличество Элементов {arrElement}, в отрезке от 10 до 99");
 else
     Console.WriteLine($"Числа в отрезке от 10 до 99 нет среди Элементов массива");

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains02\\Examples-1\\Example006\\Example006.csproj",
+      "projectUniqueName": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains\\Examples\\Example006\\Example006.csproj",
       "projectName": "Example006",
-      "projectPath": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains02\\Examples-1\\Example006\\Example006.csproj",
+      "projectPath": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains\\Examples\\Example006\\Example006.csproj",
       "packagesPath": "C:\\Users\\TabHuawei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains02\\Examples-1\\Example006\\obj\\",
+      "outputPath": "C:\\Users\\TabHuawei\\Desktop\\GeekBrains\\Examples\\Example006\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
