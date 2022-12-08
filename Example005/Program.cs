@@ -36,26 +36,26 @@
 
 // Заполение массива:
 // int[] array = {new Random().Next(0, 10)}; // так не сработает, будет только одно число
-int[] array = new int[4]; // 4 - размер (количество)
+// int[] array = new int[4]; // 4 - размер (количество)
 
-for (int i = 0; i < array.Length; i++) // заполнение массива
-{
-    int randomNumber = new Random().Next(0, 10); // генерируем случайное число
-    array[i] = randomNumber; // кладём в массив на место с индексом i
-}
+// for (int i = 0; i < array.Length; i++) // заполнение массива
+// {
+//     int randomNumber = new Random().Next(0, 10); // генерируем случайное число
+//     array[i] = randomNumber; // кладём в массив на место с индексом i
+// }
 
-for (int i = 0; i < array.Length; i++)
-{
-    Console.Write(array[i] + " ");
-}
-Console.WriteLine();
+// for (int i = 0; i < array.Length; i++)
+// {
+//     Console.Write(array[i] + " ");
+// }
+// Console.WriteLine();
 
-for (int i = 0; i < array.Length; i++) // изменение массива уже после заполнения
-{
-    array[i] = array[i] + 5;
-}
+// for (int i = 0; i < array.Length; i++) // изменение массива уже после заполнения
+// {
+//     array[i] = array[i] + 5;
+// }
 
-for (int i = 0; i < array.Length; i++)
-{
-    Console.Write(array[i] + " ");
-}
+// for (int i = 0; i < array.Length; i++)
+// {
+//     Console.Write(array[i] + " ");
+// }
